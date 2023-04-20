@@ -4,7 +4,7 @@
 
 ## Requirements
 
-- Add geojson file from the repository and set the path in `src/Location.jsx` properly
+- Add geojson file from the repository and set the path in `src/App.jsx` properly
 - Run `yarn` to install the dependencies
 - Run `yarn dev` to run locally
 
